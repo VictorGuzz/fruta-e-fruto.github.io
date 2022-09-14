@@ -1,0 +1,38 @@
+.receitas {
+    background: #E5E5E5;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5rem 0 0 5rem;
+    place-content: center;
+}
+
+.receitas__container {
+    background: #fdfdfd;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5rem;
+    margin-right: 5rem;
+    width: 25%;
+}
+
+.receitas__titulo {
+    font-size: 23px;
+    font-weight: 400;
+    padding: 1em;
+}
+
+.receitas__sobre {
+    font-size: 19px;
+    font-weight: 400;
+    padding: 1em;
+}
+
+.receitas__botao {
+    width: 115px;
+    height: 37px;
+    color: white;
+    background: #8D0606;
+    margin: 1em;
+    border-radius: 5px;
+}

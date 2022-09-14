@@ -1,0 +1,43 @@
+.comunidade {
+    background: #fdfdfd;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 13em;
+    padding-right: 13em;
+}
+
+.container__titulo {
+    place-content: center;
+    text-align: center;
+}
+
+.comunidade__titulo {
+    font-family: 'Pacifico', cursive;
+    color: #8D0606;
+    font-weight: 400;
+}
+
+.comunidade__texto {
+    font-size: 28px;
+    font-weight: 300;
+    color: #8C8888;
+}
+
+.comunidade__imagem {
+    border-radius: 150px;
+}
+
+.comunidade__nome {
+    font-family: 'Pacifico', cursive;
+    color: #8D0606;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.comunidade__profissao {
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    color: #8C8888;
+    text-align: center;
+}

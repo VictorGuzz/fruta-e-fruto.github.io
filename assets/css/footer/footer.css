@@ -1,0 +1,23 @@
+.footer {
+    width: 1281;
+    height: 108;
+    background: #c4c4c4;
+    display: flex;
+    justify-content: flex-end;
+    padding: 1.5em;
+}
+
+.footer h1 {
+    color: #fdfdfd;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 0.6em;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.footer__quadrado {
+    background: #8D0606;
+    width: 58px;
+    height: 57px;
+    margin: 0.5em;
+}
